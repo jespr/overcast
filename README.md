@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-Working on it..
+```ruby
+Overcast::Color.darken('#cccccc')
+```
+
+```ruby
+Overcast::Color.lighten('#ccccc')
+```
 
 ## Contributing
 
