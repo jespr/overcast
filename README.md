@@ -22,9 +22,22 @@ Or install it yourself as:
 Overcast::Color.darken('#cccccc')
 ```
 
+The above returns #666666
+
+You can specify the amount you want to darken it by, to make it more fine grained (default is amount 0.5)
+
+```ruby
+Overcast::Color.darken('#cccccc', 0.1)
+````
+
+That gives #141414
+
 ```ruby
 Overcast::Color.lighten('#ccccc')
 ```
+
+Gives #ffffff
+
 
 ## Contributing
 
