@@ -1,6 +1,6 @@
-# Overcast
+# Overcast [![Build Status](https://secure.travis-ci.org/jespr/overcast.png)](http://travis-ci.org/jesper/overcast)
 
-Manipulates colors. You can either lighten or darken a given hex-color
+Color manipulation using Ruby.
 
 ## Installation
 
