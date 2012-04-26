@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 require "spec_helper"
-require 'lib/overcast'
+require 'overcast'
 
 describe Overcast do
   describe 'darken' do
